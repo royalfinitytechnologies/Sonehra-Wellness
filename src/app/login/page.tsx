@@ -33,7 +33,7 @@ export default function LoginPage() {
 
     try {
       // Check for specific credentials
-      if (email !== "demoteacher@gmail.com" || password !== "123456") {
+      if (email !== "sonehrawellness@gmail.com" || password !== "Royalfinity@2026") {
         throw new Error("Invalid email or password. Please contact administrator.");
       }
 
